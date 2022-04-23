@@ -1,0 +1,11 @@
+{
+  "name": "electapp",
+  "version": "1.0.0",
+  "description": "Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ameer Karas",
+  "license": "ISC"
+}
